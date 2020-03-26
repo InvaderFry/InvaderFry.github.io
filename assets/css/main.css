@@ -305,7 +305,7 @@ input, select, textarea {
 	}
 
 /* Overlay */
-
+/*
 	@-moz-keyframes overlay {
 		0% {
 			opacity: 0;
@@ -363,6 +363,7 @@ input, select, textarea {
 		top: 0;
 		width: 100%;
 	}
+ */
 
 /* Main */
 
